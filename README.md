@@ -64,9 +64,21 @@
 
 ---
 
-<p align="center">
+<!-- Top Row: Octocat (left) and Most Used Languages (right) -->
+<div align = "center">
+  <div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
+  <!-- Octocat on the top-left -->
+  <img src="https://github.com/Simurgh1/readme_gifs/raw/master/octocat-Me.png" width="150" alt="Octocat" />
+
+  <!-- Most Used Languages on the top-right -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VAIBHAV-S-H&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VAIBHAV-S-H&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+  </div>
+
+  <!-- GitHub Stats centered below -->
+  <div style="text-align: center; margin-top: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=VAIBHAV-S-H&show_icons=true&locale=en" alt="GitHub Stats" />
+  </div>
+</div>
+
+
+
