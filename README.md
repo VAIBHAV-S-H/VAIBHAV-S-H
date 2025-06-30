@@ -11,7 +11,6 @@
 ---
 
 ### 🧠 About Me
-- 💻 I learn primarily through **Trial and Error**
 <!-- Trial and Error GIF -->
 <p align="center">
   <img src="https://github.com/Simurgh1/readme_gifs/raw/master/TrialandError.gif" width="400" alt="Trial and Error" />
